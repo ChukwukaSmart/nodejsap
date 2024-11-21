@@ -1,0 +1,22 @@
+{
+  "name": "v1.2.3",
+  "version": "1.0.0",
+  "description": "nodejsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChukwukaSmart/ChukwukaSmart/blob/main/"
+  },
+  "keywords": [
+    "nodejs",
+    "api"
+  ],
+  "author": "Chukwuka Smart",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
